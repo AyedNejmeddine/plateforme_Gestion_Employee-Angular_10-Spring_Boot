@@ -68,6 +68,6 @@ public class EmployeeController {
 	
 	@RequestMapping("/")
 	public String home() {
-		return "hello";
+		return "hello word!!!!";
 	}
 }
